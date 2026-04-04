@@ -28,6 +28,3 @@ Best public leaderboard score: **12.58802**
 
 ## Reproducibility
 Fixed random seed: 42 across all runs.
-
-## AI Tooling Disclosure
-Claude (Anthropic) was used for code scaffolding and debugging assistance.
